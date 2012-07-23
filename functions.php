@@ -2,10 +2,10 @@
 /**
  * Functions
  *
- * @package      BE_Genesis_Child
+ * @package      TR_Genesis_Child
  * @since        1.0.0
- * @link         https://github.com/billerickson/BE-Genesis-Child
- * @author       Bill Erickson <bill@billerickson.net>
+ * @link         https://github.com/nciske/TR-Genesis-Child
+ * @author       Nick Ciske <nick@thoughtrefinery.com>
  * @copyright    Copyright (c) 2011, Bill Erickson
  * @license      http://opensource.org/licenses/gpl-2.0.php GNU Public License
  *
