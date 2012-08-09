@@ -6,7 +6,7 @@
  * @since        1.0.0
  * @link         https://github.com/nciske/TR-Genesis-Child
  * @author       Nick Ciske <nick@thoughtrefinery.com>
- * @copyright    Copyright (c) 2011, Bill Erickson
+ * @copyright    Copyright (c) 2011, Bill Erickson (forked by Nick Ciske)
  * @license      http://opensource.org/licenses/gpl-2.0.php GNU Public License
  *
  */
